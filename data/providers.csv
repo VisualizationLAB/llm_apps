@@ -1,0 +1,11 @@
+id,name,organization,score,efficiency_gain,state,cbsa,clinical_groups,in_network,patient_volume,avg_cost,quality_rating
+1,Dr. Sarah Johnson,Metro Medical Group,92,15.3,CA,Los Angeles-Long Beach-Anaheim,Cardiology;Internal Medicine,True,1250,285,4.8
+2,Dr. Michael Chen,Valley Health Partners,88,22.1,CA,San Francisco-Oakland-Berkeley,Orthopedics;Sports Medicine,True,980,420,4.6
+3,Dr. Emily Rodriguez,Central Valley Clinic,85,18.7,CA,Fresno,Family Medicine;Pediatrics,False,1100,195,4.9
+4,Dr. James Wilson,Desert Health System,79,8.2,AZ,Phoenix-Mesa-Chandler,Cardiology;Interventional Cardiology,True,850,380,4.3
+5,Dr. Lisa Thompson,Austin Medical Associates,94,25.8,TX,Austin-Round Rock-Georgetown,Oncology;Hematology,False,720,510,4.9
+6,Dr. Robert Kim,Northwest Primary Care,91,19.4,WA,Seattle-Tacoma-Bellevue,Family Medicine;Geriatrics,True,1400,220,4.7
+7,Dr. Maria Gonzalez,Southwest Health Center,87,16.2,TX,Dallas-Fort Worth-Arlington,Emergency Medicine;Critical Care,True,950,350,4.5
+8,Dr. David Lee,Pacific Coast Medical,90,20.1,CA,San Diego-Chula Vista-Carlsbad,Neurology;Sleep Medicine,False,800,290,4.7
+9,Dr. Jennifer Brown,Mountain View Clinic,83,12.4,CO,Denver-Aurora-Lakewood,Family Medicine;Internal Medicine,True,1050,240,4.4
+10,Dr. Thomas Anderson,Midwest Medical Partners,86,17.8,IL,Chicago-Naperville-Elgin,Gastroenterology;Hepatology,False,920,380,4.6
